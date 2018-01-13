@@ -35,7 +35,7 @@ nav a:hover {
     float: left;
     width: 25.33%;
     margin: 0 4%;
-    min-height: 355px;
+    min-height: 355px; 
 }
 
 .card a {
